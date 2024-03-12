@@ -8,7 +8,7 @@ class PantallaInicial_0359 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pantalla Inicial Garcia0359"),
+        title: const Text("Card container Garcia0359"),
         backgroundColor: Colors.indigo,
       ),
       body: Center(
